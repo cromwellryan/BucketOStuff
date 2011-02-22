@@ -1,0 +1,10 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <StackPanel  Background="White">
+    <StackPanel.LayoutTransform>
+      <ScaleTransform ScaleX="4.5" ScaleY="4.5" />
+    </StackPanel.LayoutTransform>
+    <TextBlock Text="TextFormattingMode=Display" TextOptions.TextFormattingMode="Display" ></TextBlock>
+    <TextBlock Text="TextFormattingMode=Ideal" TextOptions.TextFormattingMode="Ideal"  ></TextBlock>
+  </StackPanel>
+</Window>
