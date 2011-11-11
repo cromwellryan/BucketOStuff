@@ -31,6 +31,6 @@ Published/*
 [Uu]pgradeLog*.[Xx][Mm][Ll]
 _[Uu]pgradeReport_Files*/
 *.build.csdef
-[Pp]ackage/*
+[Pp]ackages
 ASPNETDB.MDF
 aspnetdb_log.ldf
