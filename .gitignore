@@ -21,7 +21,7 @@
 [Dd]ebug*/
 obj/
 [Rr]elease*/
-_ReSharper*/
+_ReSharper*
 [Tt]est[Rr]esult*
 [Bb]uild[Ll]og.*
 *.[Pp]ublish.xml
